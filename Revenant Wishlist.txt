@@ -1,5 +1,5 @@
 title:Revenant Wishlist
-description:Paws 4 the Caws clan wishlist, maintained by Porcc Sauce. Seasons 25 and 24 random rolls.
+description:Strictly stuff that came out in "Season 25". This list exists to help me nail down godrolls, and identify them.
 
 // VS Gravitic Arrest - Law Of Exchange (god-pve)
 //notes: tags:god-pve
@@ -7019,4 +7019,42 @@ dimwishlist:item=4232480042&perks=3661387068,1431678320,684456054,3966416502,413
 //notes: tags:pvp
 dimwishlist:item=4232480042&perks=839105230,1561002382,3938834702,1194056669,4139916815
 
+// Cold Comfort - No Wolfpack (pve)
+//notes: tags:pve
+dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3194351027,398661035
+
+
+// Cold Comfort - Wolfpack (pve)
+//notes: tags:pve
+dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919,398661035
+
+// New Pacific Epitaph - Grenadier (pve)
+//notes: tags:pve
+dimwishlist:item=1125217994&perks=3798852852,2822142346,3523296417,11612903,398661035
+
+// New Pacific Epitaph - Ad Clear (pve)
+//notes: tags:pve
+dimwishlist:item=1125217994&perks=3798852852,2822142346,3108830275,3201496230,398661035
+
+// Greasy Luck - Firing Pin (pve)
+//notes: Scorcher, bro. Scorcher. tags:pve
+dimwishlist:item=1757202961&perks=2713678205,2420895100,1966281507,4293542123,398661035
+
+//Greasy Luck - Economist (pve)
+//notes: Just finisher every now and then, and never have to reload again! tags: pve
+dimwishlist:item=1757202961&perks=5699512,2420895100,1556840489,1782407750,398661035
+
+//No Survivors - Kindling (pve)
+//Redefining the term "firehose". tags:pve
+dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,4293542123,398661035
+
+//No Survivors - Hear Me Out (pve)
+//NADES! NADES! NADES! NADES! NADES!
+Needs testing, gotta know if Collective is indefinitely maintainable. Adrenaline Junkie might be better? Dunno. tags:pve
+dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,3324494224,398661035
+
+//No Survivors - Grenadier's Workknife (pve)
+//NADES! NADES! NADES! NADES! NADES!
+Maintain adrenaline junkie for profit. Finisher frequently. tags:pve
+dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,11612903,398661035
 
