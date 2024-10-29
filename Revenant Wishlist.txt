@@ -1,5 +1,5 @@
 title:Revenant Wishlist
-description:Strictly stuff that came out in "Season 25". This list exists to help me nail down godrolls, and identify them.
+description:An ever expanding wishlist for the folks at Paws 4 the Caws.
 
 // VS Gravitic Arrest - Law Of Exchange (god-pve)
 //notes: tags:god-pve
