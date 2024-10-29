@@ -1,5 +1,5 @@
 title:Revenant Wishlist
-description:Strictly stuff that came out in "Season 25". This list exists to help me nail down godrolls, and identify them.
+description:Paws 4 the Caws clan wishlist, maintained by Porcc Sauce. Seasons 25 and 24 random rolls.
 
 // VS Gravitic Arrest - Law Of Exchange (god-pve)
 //notes: tags:god-pve
