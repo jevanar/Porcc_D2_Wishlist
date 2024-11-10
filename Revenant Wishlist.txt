@@ -7060,6 +7060,65 @@ dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,11612903,3986
 
 //Jurassic Green - The Classic (pve)
 //You know why you're here
-It's free real estate
+It's free real estate tags:pve
 dimwishlist:item=689294985&perks=1482024992,106909392,3017780555,4293542123,2120661319
+dimwishlist:item=689294985&perks=3661387068,106909392,3017780555,4293542123,2120661319
 
+//Jurassic Green - But I don't need Healing (pve)
+//Heal Clip is for scrubs
+tags:pve
+dimwishlist:item=689294985&perks=1482024992,106909392,1119449540,4293542123,2120661319
+dimwishlist:item=689294985&perks=3661387068,106909392,1119449540,4293542123,2120661319
+
+//Jurassic Green - Scorchless (pve)
+//Heal Clip pulse rifle go brrrrr
+tags:pve
+dimwishlist:item=689294985&perks=1482024992,106909392,3017780555,11612903,2120661319
+dimwishlist:item=689294985&perks=3661387068,106909392,3017780555,11612903,2120661319
+
+//Jurassic Green - Dogfighter (pvp)
+//Be the badguy or whatever
+tags:pvp
+dimwishlist:item=689294985&perks=839105230,106909392,2579169598,1015611457,2250679103
+
+//Mechabre - Rebuker (pvp)
+//They said "flinch", and I said "no".
+tags:pvp
+dimwishlist:item=2477980485&perks=3661387068,3177308360,2579169598,1194056669,2250679103
+
+//Mechabre - Bulletbender (pvp)
+//"I can't believe I hit that!" - you prolly
+tags:pvp
+dimwishlist:item=2477980485&perks=3661387068,3177308360,2579169598,3938834702,2250679103
+
+//Mechabre - I guess (pvp)
+//Nothing great here
+Voltshot the Majors, I guess? Teamshoot with Firing Line? Ionno, man. tags:pve
+dimwishlist:item=2477980485&perks=1840239774,106909392,2284787283,2173046394,2250679103
+dimwishlist:item=2477980485&perks=1840239774,106909392,2284787283,1771339417,2250679103
+
+//Acosmic - Old Reliable (pve)
+//BnS
+You know the drill. On a rapid fire. tags:pve
+dimwishlist:item=425681240&perks=3798852852,3301904089,1421772400,3078487919,2509860981
+
+//Acosmic - Weakener (pve)
+//Weaken then unload
+tags:pve
+dimwishlist:item=425681240&perks=3798852852,3301904089,1134488199,3078487919,2509860981
+
+//Acosmic - Construct Crusher (pve)
+//Kill that which does not live
+tags:pve
+dimwishlist:item=425681240&perks=3798852852,3301904089,1421772400,3993379141,2509860981
+
+//Braytech Werewolf - Richter Belmont (pve)
+//Shake the earth with your howls
+Column 1 and 2 feel personal, Wewind Wounds and KT are the carries here tags:pve
+dimwishlist:item=3558681245&perks=1482024992,3230963543,3418782618,3891536761,2250679103
+
+//Braytech Werewolf - Iron Werewolf (pvp)
+//Assert Dominance
+tags:pvp
+dimwishlist:item=3558681245&perks=3661387068,1885400500,2579169598,1890422124,2250679103
+dimwishlist:item=3558681245&perks=839105230,1885400500,1359896290,365154968,2250679103
