@@ -7058,3 +7058,8 @@ dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,3324494224,39
 Maintain adrenaline junkie for profit. Finisher frequently. tags:pve
 dimwishlist:item=3262192268&perks=4090651448,1885400500,3523296417,11612903,398661035
 
+//Jurassic Green - The Classic (pve)
+//You know why you're here
+It's free real estate
+dimwishlist:item=689294985&perks=1482024992,106909392,3017780555,4293542123,2120661319
+
