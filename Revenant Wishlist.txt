@@ -7504,4 +7504,74 @@ dimwishlist:item=2987244302&perks=3661387068,106909392,692399809,2298656195,8782
 dimwishlist:item=2987244302&perks=1467527085,106909392,692399809,2298656195,878237828
 
 //Adamantite - Weal and Woe
-//Take a piece of the healing pie for yourself,
+//Take a piece of the healing pie for yourself, and dispense debuffs to your enemies tags: pve
+dimwishlist:item=2987244302&perks=839105230,106909392,692399809,960997401,878237828
+dimwishlist:item=2987244302&perks=3661387068,106909392,692399809,960997401,878237828
+dimwishlist:item=2987244302&perks=1467527085,106909392,692399809,960997401,878237828
+
+//Adamantite - Nether Special
+//Utility Primary for the Nether. Big chunks of heal off Unrelenting, orb drop on sustained healing or damage tags: pve
+dimwishlist:item=2987244302&perks=839105230,106909392,3108830275,243981275,878237828
+dimwishlist:item=2987244302&perks=3661387068,106909392,3108830275,243981275,878237828
+dimwishlist:item=2987244302&perks=1467527085,106909392,3108830275,243981275,878237828
+
+//Adamantite - Grenadier Support
+//Grenade focused builds rejoice! tags: pve
+dimwishlist:item=2987244302&perks=839105230,106909392,3523296417,243981275,878237828
+dimwishlist:item=2987244302&perks=3661387068,106909392,3523296417,243981275,878237828
+dimwishlist:item=2987244302&perks=1467527085,106909392,3523296417,243981275,878237828
+
+//False Promises - One Good Roll
+//Waow. tags: pve
+dimwishlist:item=1390080550&perks=1482024992,1885400500,2779035018,124408337,1600429811
+dimwishlist:item=1390080550&perks=4090651448,1885400500,2779035018,124408337,1600429811
+
+//False Promises - Cascade Surprise
+//Half second TTK if you can spin it up. tags:god-pvp
+dimwishlist:item=1390080550&perks=3250034553,1885400500,2010801679,3751912585,1600429811
+
+//Whispering Slab - High Ground Assassin
+//Two tapping with 100 aim assist. Eyes up. tags:god-pvp
+dimwishlist:item=690341468&perks=2801223209,3429800428,2579169598,2319119708,1600429811
+
+//Refusal of the Call -  Shield Rush
+//I dunno, seems cool, gotta go fast tags: god-pve
+dimwishlist:item=2671849376&perks=2713678205,679225683,3526486541,3773585912
+
+//Refusal of the Call - Melee Synergy
+//You know how it is tags:pve
+dimwishlist:item=2671849376&perks=2713678205,679225683,1966281507,1782407750
+
+//Refusal of the Call - Discordant Blade
+//Spin up Discord and lay waste to the Hordes tags: god-pve
+dimwishlist:item=2671849376&perks=2713678205,679225683,3978468247,31345821
+
+//Refusal of the Call - Discordant Beacon
+//Spin up Discord and knock them down tags: pve
+dimwishlist:item=2671849376&perks=2713678205,679225683,3978468247,2859149211
+
+//Unloved - Elementalist Lucky Pants
+//The new standard if you can get it to x4, and the gun itself is x1 tags:god-pve
+dimwishlist:item=2485881870&perks=4090651448,1885400500,247725512,1089671869,1298135794
+dimwishlist:item=2485881870&perks=1482024992,1885400500,247725512,1089671869,1298135794
+dimwishlist:item=2485881870&perks=3250034553,1885400500,247725512,1089671869,1298135794
+
+//Unloved - Severance of Form
+//Sever enemies when you turn their buddies into chum. Become the Strand Debuffer. tags: pve
+dimwishlist:item=2485881870&perks=1482024992,1885400500,1168162263,960997401,1298135794
+dimwishlist:item=2485881870&perks=1482024992,3230963543,831391274,960997401,1298135794
+
+//Unloved - Ouroboros
+//Feed off the Dragonfly explosions to maintain Paracausal effortlessly tags: god-pve
+dimwishlist:item=2485881870&perks=1482024992,3230963543,2848615171,3215448563,1298135794
+dimwishlist:item=2485881870&perks=1482024992,1885400500,2848615171,3215448563,1298135794
+
+//Cold Denial - And Your Friend, Too
+//Desperado and Tunnel Vision combine to snowball into something mean on this frame tags: god-pvp
+dimwishlist:item=558794124&perks=1467527085,1885400500,2946784966,3047969693,1600429811
+dimwishlist:item=558794124&perks=1467527085,679225683,2946784966,3047969693,1600429811
+dimwishlist:item=558794124&perks=1482024992,679225683,2946784966,3047969693,1600429811
+
+//Redrix's Estoc - Stasis Workhorse
+//Rimestone go brrrrr tags:god-pve
+dimwishlist:item=3218364298&perks=3250034553,106909392,1955165503,124408337,4259401308
